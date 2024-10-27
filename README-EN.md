@@ -1,4 +1,4 @@
-# Telegraph-Image
+# Telegraph-Image -Test
 
 Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph.
 
